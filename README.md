@@ -14,7 +14,8 @@ How to make it so there is no overwriting
 -Have if statements that don't allow the user to place a mark if there is already one there
 
 
-I spent the whole 4 hours on it
+I spent the whole 4 hours on it.
+
 If I had more time
 
 -Couldn't figure out how to get it to circle back to the original prompt of asking who the user wants to go first. Thinking it has something to do with it not breaking out of the while loop just could find the correct blace to put the break statement 
